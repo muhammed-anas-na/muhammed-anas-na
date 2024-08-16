@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Muhammed Anas</h1>
-<h3 align="center">A passionate full stack mern developer from India</h3>
+<h1 align="center">Hi 👋, I'm Muhammed Anas NA</h1>
+<h3 align="center">A passionate Self taught Full Stack Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-anas-na&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-anas-na" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed-anas-na" alt="muhammed-anas-na" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://muhammedanas.online/)
+- 🔭 I’m currently working on Solana
 
-- 🌱 I’m currently learning **React,Nextjs**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://muhammed-anas-na.github.io/personal-website/](https://muhammed-anas-na.github.io/personal-website/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anasna6005@gmail.com**
 
-- ⚡ Fun fact **I create content for myself.**
+- ⚡ Fun fact **I did some vlog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
