@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm, Anas</h1>
-<h3 align="center">Self taught Full Stack Engineer 👩‍💻</h3>
+<h1 align="center">Hi, I'm, Muhammad Anas NA 😎</h1>
+<h3 align="center">Self taught Full Stack Engineer 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-anas-na&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-anas-na" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed-anas-na" alt="muhammed-anas-na" /></a> </p>
 
-- 🔭 I’m currently working on Solana
+- 🔭 I’m currently working on Solidity
 
 - 🌱 I’m currently learning **Blockchain**
 
